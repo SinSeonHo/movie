@@ -38,13 +38,13 @@
 		<dependency>
 			<groupId>com.querydsl</groupId>
 			<artifactId>querydsl-jpa</artifactId>
-			<version>5.1.0</version>	
+			<version>5.0.0</version>	
 			<classifier>jakarta</classifier>					
 		</dependency>
 		<dependency>
 			<groupId>com.querydsl</groupId>
 			<artifactId>querydsl-apt</artifactId>
-			<version>5.1.0</version>	
+			<version>5.0.0</version>	
 			<classifier>jakarta</classifier>		
 		</dependency>
 		<dependency>
@@ -139,9 +139,9 @@
 					</path>
 					<path>
 						<groupId>com.querydsl</groupId>
-			<artifactId>querydsl-apt</artifactId>
-			<version>5.1.0</version>	
-			<classifier>jakarta</classifier>	
+						<artifactId>querydsl-apt</artifactId>
+						<version>5.0.0</version>	
+						<classifier>jakarta</classifier>	
 					</path>
 						<path>
 							<groupId>org.projectlombok</groupId>
