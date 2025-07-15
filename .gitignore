@@ -1,3 +1,4 @@
+# 제외파일추가
 upload/**
 .mvn/**
 mvnw
